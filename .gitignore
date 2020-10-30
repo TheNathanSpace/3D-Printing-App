@@ -1,0 +1,7 @@
+build/
+dist/
+venv/
+.idea/
+__pycache__/
+
+3D Printing.spec
