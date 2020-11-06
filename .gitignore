@@ -3,5 +3,6 @@ dist/
 venv/
 .idea/
 __pycache__/
+venv27/
 
 3D Printing.spec
